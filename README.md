@@ -54,9 +54,9 @@ plt.clf()
 
 The results look like this:
 
-![alt text](https://github.com/jvines/BayesianGLS/blob/master/src/images/synthetic_data.pdf "Synthetic data")
+![alt text](https://github.com/jvines/BayesianGLS/blob/master/src/images/synthetic_data.png "Synthetic data")
 
-![alt text](https://github.com/jvines/BayesianGLS/blob/master/src/images/BGLS.pdf "BGLS")
+![alt text](https://github.com/jvines/BayesianGLS/blob/master/src/images/BGLS.png "BGLS")
 
 ## Uninstallation
 
