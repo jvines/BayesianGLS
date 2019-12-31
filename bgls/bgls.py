@@ -45,7 +45,7 @@ def bgls(data, times, uncerts, freqs):
     lnp = np.zeros(freqs.shape[0])
     for i, f in enumerate(freqs):
         lnp[i] = model(data, times, uncerts, f)
-    return lnp
+    return lnp / lnp.max()
 
 
 @jit(nopython=True)
